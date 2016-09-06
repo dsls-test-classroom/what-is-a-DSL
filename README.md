@@ -4,7 +4,7 @@
 [Pulls]: https://github.com/hmc-cs111-fall2016/what-is-a-DSL/pulls
 
 # What _is_ a DSL?
-###### _Submission deadline: Sunday, Sept. 4 at 11:59pm_
+###### _Submission deadline: Sunday, Sept. 4 at 11:5 9pm_
 ###### _Critique deadline: Tuesday, Sept. 6 at 11:59pm_
 
 In this assignment, you'll read an introductory chapter about DSLs, which will 
